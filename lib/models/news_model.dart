@@ -1,7 +1,7 @@
 class News {
   final String? source;
   final String title;
-  final String content;
+  final String? content;
   final String? imageUrl;
   final String publishedAt;
   News({
